@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Gizlilik Politikası / Privacy Policy</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  line-height: 1.6;
+}
+h1, h2 {
+  text-align: center;
+}
+section {
+  margin-bottom: 50px;
+}
+</style>
+</head>
+<body>
+
+<section>
+<h1>Gizlilik Politikası</h1>
+
+<p>
+Bu uygulama herhangi bir kişisel veri toplamaz, işlemez veya üçüncü taraflarla paylaşmaz.
+</p>
+
+<h2>Toplanan Veriler</h2>
+<p>
+Uygulama hiçbir kişisel bilgi, cihaz verisi, konum, çerez, analitik veya kullanıcıya ait başka herhangi bir veri toplamaz.
+</p>
+
+<h2>Üçüncü Taraf Servisler</h2>
+<p>
+Uygulama, reklam, analiz veya başka bir amaçla üçüncü taraf hizmetleri kullanmaz.
+</p>
+
+<h2>Güvenlik</h2>
+<p>
+Herhangi bir veri toplanmadığı için ek bir güvenlik işlemine gerek yoktur.
+</p>
+
+<h2>İletişim</h2>
+<p>
+Herhangi bir sorunuz varsa geliştirici ile iletişime geçebilirsiniz:<br>
+<b>burak@example.com</b>
+</p>
+</section>
+
+
+<hr>
+
+
+<section>
+<h1>Privacy Policy</h1>
+
+<p>
+This application does not collect, process, or share any personal data with any third parties.
+</p>
+
+<h2>Data Collected</h2>
+<p>
+The app does not collect any personal information, device data, location data, cookies, analytics, or any other type of user data.
+</p>
+
+<h2>Third-Party Services</h2>
+<p>
+The application does not use any third-party services for advertising, analytics, or any type of data processing.
+</p>
+
+<h2>Security</h2>
+<p>
+Since no data is collected, no additional security measures are required.
+</p>
+
+<h2>Contact</h2>
+<p>
+If you have any questions, you may contact the developer:<br>
+<b>redaniastudio@gmail.com</b>
+</p>
+</section>
+
+</body>
+</html>
